@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">REDREC</title>
+  <rect width="512" height="512" rx="116" fill="#ff2d35"/>
+  <path d="M111 270v-28M157 318V194M203 352V160M249 301v-90M295 342V170M341 309V203M387 272v-32" fill="none" stroke="#fff" stroke-width="26" stroke-linecap="round"/>
+</svg>
